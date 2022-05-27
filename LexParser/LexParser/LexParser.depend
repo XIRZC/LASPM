@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1603458520 source:c:\users\xiezi\desktop\编译原理\lexparser\lexparser\list.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1603697381 c:\users\xiezi\desktop\编译原理\lexparser\lexparser\list.h
+
+1603697608 source:c:\users\xiezi\desktop\编译原理\lexparser\lexparser\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"list.h"
+

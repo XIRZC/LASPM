@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1603458520 source:e:\大三上作业\编译原理\synparser\synparser\list.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1604328761 e:\大三上作业\编译原理\synparser\synparser\list.h
+
+1604331956 source:e:\大三上作业\编译原理\synparser\synparser\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<set>
+
+1607149834 source:e:\大三上作业\编译原理\synparser\ll(1)语法分析\ll1ana.cpp
+	"ll1Ana.h"
+
+1607147712 e:\大三上作业\编译原理\synparser\ll(1)语法分析\ll1ana.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<string>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1606991023 source:e:\大三上作业\编译原理\synparser\ll(1)语法分析\main.cpp
+	"ll1Ana.h"
+
+1607149834 source:c:\users\xiezi\desktop\编译原理\synparser\ll(1)语法分析\ll1ana.cpp
+	"ll1Ana.h"
+
+1607147712 c:\users\xiezi\desktop\编译原理\synparser\ll(1)语法分析\ll1ana.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<string>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1606991023 source:c:\users\xiezi\desktop\编译原理\synparser\ll(1)语法分析\main.cpp
+	"ll1Ana.h"
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1607147628 source:e:\大三上作业\编译原理\synparser\算符优先语法分析\main.cpp
+	"OperPreAna.h"
+
+1606979573 e:\大三上作业\编译原理\synparser\算符优先语法分析\operpreana.h
+	<iostream>
+	<map>
+	<set>
+	<list>
+	<iomanip>
+	<algorithm>
+	<string.h>
+	<ctype.h>
+
+1606988121 source:e:\大三上作业\编译原理\synparser\算符优先语法分析\operpreana.cpp
+	"OperPreAna.h"
+
+1607147628 source:c:\users\xiezi\desktop\编译原理\synparser\算符优先语法分析\main.cpp
+	"OperPreAna.h"
+
+1606979573 c:\users\xiezi\desktop\编译原理\synparser\算符优先语法分析\operpreana.h
+	<iostream>
+	<map>
+	<set>
+	<list>
+	<iomanip>
+	<algorithm>
+	<string.h>
+	<ctype.h>
+
+1606988121 source:c:\users\xiezi\desktop\编译原理\synparser\算符优先语法分析\operpreana.cpp
+	"OperPreAna.h"
+
